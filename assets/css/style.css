@@ -78,6 +78,9 @@ img {
 .navbar {
     background-color: var(--color-base);
 }
+ .fw-bold .d-block .d-lg-none{
+    font-size: 100px;
+ }
 
 .navbar .nav-link {
     font-weight: 700;
